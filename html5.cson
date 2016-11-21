@@ -1,0 +1,18 @@
+'.text.html':
+    'HTML5 Skeleton':
+      'prefix': 'html5'
+      'body': '
+<!DOCTYPE html>\n
+<html>\n
+\t<head>\n
+\t\t<meta charset="utf-8">\n
+\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n
+\t\t<meta name="viewport" content="width=device-width, initial-scale=1">\n
+\t\t<title> Project Title </title>\n
+\t\t<link rel="stylesheet" type="text/css" href=" ">\n
+\t</head>\n
+\t<body>\n
+\t\t<h1>Hello, World!</h1>\n
+\t\t<script type="text/javascript" src=" "></script>\n
+\t</body>\n
+</html>'
